@@ -146,5 +146,3 @@ This project is part of an academic Distributed Systems assignment and is intend
 > **Note:** Yes, we know it's spelled *Chauffeur*. No, we're not changing it. 🙃
 
 ***
-
-Feel free to swap out placeholder URLs, add your actual teammate names, or expand the architecture diagram as you wire up more services to the system!
