@@ -1,5 +1,3 @@
-Here's a README for your Chauffer-Service:
-
 ***
 
 # 🚗 Chauffer-Service
